@@ -1,4 +1,9 @@
 body{
     background-color: blue;
-    color: brown;
+}
+p{
+    color: green;
+}
+p{
+    color: blueviolet;
 }
